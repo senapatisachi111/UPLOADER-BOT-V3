@@ -30,17 +30,17 @@ I Am Telegram URL Uploader Bot.
  
 """
     ABOUT_TEXT = """
-**📛 My Name** : [Uploader Bot V3 🚀](http://t.me/UploadFlieBot)
+**📛 My Name** : [Uploader Bot V3](http://t.me/ABOUT_SNS)
 
-**❤️ Version** : [2.3 🔥](http://t.me/UploadFlieBot)
+**❤️ Movies Grp** : [✪ 𝚂𝙽𝚂 𝙼𝙾𝚅𝙸𝙴𝚂 ✪](https://t.me/+7j7EXi8FELQ2MjU9)
 
-**🤖 Source** : [Click](https://github.com/LISA-KOREA/UPLOADER-BOT-V3)
+**🤖 Source** : [Click](https://t.me/+4cU3CekJJ6o2ZWY1)
 
 **🧿 Language** : [Python 3.10.9](https://www.python.org/)
 
 **📢 Framework** : [Pyrogram 1.4.16](https://docs.pyrogram.org/)
 
-**👨‍💻 Developer** : [LISA](https://t.me/LISA_FAN_LK)
+**👨‍💻 Developer** : [🇮🇳 𝐓𝐄𝐀𝐌 𝐒𝐍𝐒 🇮🇳](https://t.me/SNSxTG)
 
 """
 
@@ -89,14 +89,14 @@ I Am Telegram URL Uploader Bot.
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>No preminum plans available in this bot </b>  /help for Details"
-    FORMAT_SELECTION = "<b>Select Your Format 👇\n\n🎥 Video = Upload As Streamble\n\n📂 File =Upload As File\n\n👮‍♂ Powered By :</b> @NT_BOT_CHANNEL"
+    FORMAT_SELECTION = "<b>Select Your Format 👇\n\n🎥 Video = Upload As Streamble\n\n📂 File =Upload As File\n\n👮‍♂ Powered By :</b> @SNSxTG"
     SET_CUSTOM_USERNAME_PASSWORD = """"""
     NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
     DOWNLOAD_START = "📥 Downloading..."
     UPLOAD_START = "📤 Uploading.."
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 2GB due to Telegram API limitations."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = " OWNER : Lisa 💕\nFor the List of Telegram Bots"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = " OWNER : 🇮🇳 𝐓𝐄𝐀𝐌 𝐒𝐍𝐒 🇮🇳\nFor the List of Telegram Bots"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Dᴏᴡɴʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs.\n\nTʜᴀɴᴋs Fᴏʀ Usɪɴɢ Mᴇ\n\nUᴘʟᴏᴀᴅᴇᴅ ɪɴ {} sᴇᴄᴏɴᴅs"
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     SAVED_CUSTOM_THUMB_NAIL = "Save Your Thumbnail ✔️"
