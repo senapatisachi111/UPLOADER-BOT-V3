@@ -16,7 +16,7 @@
 
 ### Deploy To Heroku
 
-  ㅤ ㅤ   ㅤ <a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FLISA-KOREA%2FUPLOADER-BOT-V3"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/></a> 
+  ㅤ ㅤ   ㅤ <a href="https://dashboard.heroku.com/new?template=https://github.com/senapatisachi111/UPLOADER-BOT-V3"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/></a> 
 
 ### Deploy To Koyeb
 
